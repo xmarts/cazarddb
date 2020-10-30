@@ -2,3 +2,8 @@
 	path = odoo-dominicana/l10n-dominicana
 	url = git@github.com:odoo-dominicana/l10n-dominicana.git
 	branch = 13.0
+
+[submodule "purchase_discount-v13"]
+	path = purchase_discount-v13
+	url = git@github.com:xmarts/purchase_discount-v13.git
+	branch = main
