@@ -7,7 +7,3 @@
 	path = purchase_discount-v13
 	url = git@github.com:xmarts/purchase_discount-v13.git
 	branch = main
-[submodule "TDS_or_Withholding_Tax_Advanced_CV"]
-	path = TDS_or_Withholding_Tax_Advanced_CV
-	url = git@github.com:xmarts/TDS_or_Withholding_Tax_Advanced_CV.git
-	branch = main
