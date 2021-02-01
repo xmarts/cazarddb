@@ -8,3 +8,8 @@
 [submodule "TDS_or_Withholding_Tax_Advanced_CV"]
 	path = TDS_or_Withholding_Tax_Advanced_CV
 	url = git@github.com:xmarts/TDS_or_Withholding_Tax_Advanced_CV.git
+
+[submodule "dynamic_cheque"]
+	path = dynamic_cheque
+	url = git@github.com:xmarts/dynamic_cheque.git
+	branch = main
