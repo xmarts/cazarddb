@@ -9,3 +9,8 @@
 	path = purchase_discount13
 	url = git@github.com:xmarts/purchase_discount13.git
 	branch = main
+
+[submodule "dynamic_cheque"]
+	path = dynamic_cheque
+	url = git@github.com:xmarts/dynamic_cheque.git
+	branch = main
