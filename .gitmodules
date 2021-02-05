@@ -14,3 +14,6 @@
 	path = purchase_discount13
 	url = git@github.com:xmarts/purchase_discount13.git
 	branch = main
+[submodule "xmarts_dgii_reports"]
+	path = xmarts_dgii_reports
+	url = git@github.com:xmarts/xmarts_dgii_reports.git
