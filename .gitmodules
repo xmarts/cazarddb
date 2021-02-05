@@ -14,3 +14,8 @@
 	path = dynamic_cheque
 	url = git@github.com:xmarts/dynamic_cheque.git
 	branch = main
+
+[submodule "xmarts_dgii_reports"]
+	path = xmarts_dgii_reports
+	url = git@github.com:xmarts/xmarts_dgii_reports.git
+	branch = 13.0
