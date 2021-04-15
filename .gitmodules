@@ -17,3 +17,8 @@
 [submodule "xmarts_dgii_reports"]
 	path = xmarts_dgii_reports
 	url = git@github.com:xmarts/xmarts_dgii_reports.git
+
+[submodule "quick-purchase-order"]
+	path = quick-purchase-order
+	url = git@github.com:xmarts/quick-purchase-order.git
+	branch = 13.0
