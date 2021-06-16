@@ -22,3 +22,7 @@
 	path = quick-purchase-order
 	url = git@github.com:xmarts/quick-purchase-order.git
 	branch = 13.0
+[submodule "withholding-multi-payments"]
+	path = withholding-multi-payments
+	url = git@github.com:xmarts/withholding-multi-payments.git
+	branch = 13.0
