@@ -36,3 +36,8 @@
 	path = l10n_do_tss_report
 	url = git@github.com:xmarts/l10n_do_tss_report.git
 	branch = 13.0
+
+[submodule "simplify_access_management"]
+	path = simplify_access_management
+	url = git@github.com:xmarts/simplify_access_management.git
+	branch = 13.0
