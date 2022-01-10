@@ -36,3 +36,6 @@
 	path = l10n_do_tss_report
 	url = git@github.com:xmarts/l10n_do_tss_report.git
 	branch = 13.0
+[submodule "ks-custom-report"]
+	path = ks-custom-report
+	url = git@github.com:xmarts/ks-custom-report.git
