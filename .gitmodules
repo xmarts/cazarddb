@@ -39,3 +39,6 @@
 [submodule "ks-custom-report"]
 	path = ks-custom-report
 	url = git@github.com:xmarts/ks-custom-report.git
+[submodule "simplify_access_management"]
+	path = simplify_access_management
+	url = git@github.com:xmarts/simplify_access_management.git
