@@ -42,3 +42,8 @@
 [submodule "simplify_access_management"]
 	path = simplify_access_management
 	url = git@github.com:xmarts/simplify_access_management.git
+
+[submodule "declaraciones_dgii"]
+	path = declaraciones_dgii
+	url = git@github.com:xmarts/declaraciones_dgii.git
+	branch = 13.0
