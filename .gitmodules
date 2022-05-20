@@ -47,3 +47,8 @@
 	path = declaraciones_dgii
 	url = git@github.com:xmarts/declaraciones_dgii.git
 	branch = 13.0
+
+[submodule "l10n_do_rnc_search"]
+	path = l10n_do_rnc_search
+	url = git@github.com:xmarts/l10n_do_rnc_search.git
+	branch = 13.0
