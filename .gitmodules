@@ -52,3 +52,6 @@
 	path = l10n_do_rnc_search
 	url = git@github.com:xmarts/l10n_do_rnc_search.git
 	branch = 13.0
+[submodule "external-service-addons"]
+	path = external-service-addons
+	url = git@github.com:indexa-git/external-service-addons.git
