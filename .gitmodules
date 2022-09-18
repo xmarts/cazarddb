@@ -52,8 +52,3 @@
 	path = l10n_do_rnc_search
 	url = git@github.com:xmarts/l10n_do_rnc_search.git
 	branch = 13.0
-
-[submodule "external-service-complementos"]
-	path = external-service-complementos
-	url = git@github.com:xmarts/external-service-complementos.git
-	branch = 13.0
